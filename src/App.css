@@ -2,21 +2,27 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
+.Header{
+  padding: 1em;
+  background: #0b0c10;
+  color: #c5c6c7;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  font-size: small;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.HeaderLinks{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
-.App-link {
-  color: #09d3ac;
+li{
+  display: inline;
+  margin:0.5em;
+}
+
+li:hover{
+  background:#1f2833
 }
