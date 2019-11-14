@@ -1,9 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import {Header} from './Header';
 import {Backgroundvid} from './backgroundvid';
 import {About} from './About';
+import {Gallery} from './Gallery';
+
 
 class App extends React.Component{
   render(){
@@ -11,6 +12,7 @@ class App extends React.Component{
       <Header></Header>
       <Backgroundvid></Backgroundvid>
       <About></About>
+      <Gallery></Gallery>
       </div>
     )
   }
