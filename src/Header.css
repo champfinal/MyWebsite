@@ -31,16 +31,5 @@
       width: 25px;
       height:25px;
   }
-
-  .ProgressContainer{
-    width: 100%;
-    z-index: 10;
-    color: #45A29E;
-  }
-
-  .ProgressBar{
-    width:0%;
-    z-index:15;
-    color:#66FCF1;
-  }
+  
 

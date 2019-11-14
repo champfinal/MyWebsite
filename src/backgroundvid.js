@@ -9,7 +9,8 @@ export class Backgroundvid extends React.Component{
                 </video>
                 <div className="Container">
                 <h1 className="Overlay">Hi, I'm Sujay.</h1>
-                <h2>I'm an aspiring game developer seeking to bring exciting new experiences through this medium.</h2>
+                <h2>I'm an aspiring game developer seeking to share fun and exciting experiences through games I work on!</h2>
+                <h2>Apart from games, I also have a keen interest in Immersive Technology, and experimenting with its possibilities.</h2>
                 </div>
             </div>
         )
