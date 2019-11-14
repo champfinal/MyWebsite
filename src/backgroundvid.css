@@ -1,0 +1,23 @@
+video{
+    width:100%;
+}
+
+.Overlay{
+
+    bottom:50%;
+    left:40%;
+    color: #66fcf1;
+    opacity: 1;
+}
+
+.Container{
+    background: rgba(11,12,16,0.75);
+    bottom:50%;
+    left:30%;
+    position: absolute;
+    width:40%;
+}
+
+h2{
+    color:#c5c6c7;
+}

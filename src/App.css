@@ -1,28 +1,5 @@
 .App {
   text-align: center;
+  
 }
 
-.Header{
-  padding: 1em;
-  background: #0b0c10;
-  color: #c5c6c7;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  font-size: small;
-}
-
-.HeaderLinks{
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-
-li{
-  display: inline;
-  margin:0.5em;
-}
-
-li:hover{
-  background:#1f2833
-}
