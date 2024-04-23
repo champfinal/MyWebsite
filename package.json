@@ -4,7 +4,7 @@
   "private": true,
   "homepage" : "http://champfinal.github.io/MyWebsite",
   "dependencies": {
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-image-gallery": "^0.9.1",
